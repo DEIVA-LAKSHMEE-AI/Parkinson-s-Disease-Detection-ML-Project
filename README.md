@@ -1,11 +1,3 @@
-You're **almost there!** Just a few small fixes to polish it up and make it perfect for GitHub.
-
----
-
-Here’s your **cleaned-up and improved README**:
-
----
-
 # 🧠 Parkinson’s Disease Detection using Machine Learning
 
 A machine learning project that detects Parkinson’s Disease based on voice features using a Support Vector Machine (SVM).
