@@ -55,8 +55,30 @@ Achieved \~90% accuracy using biomedical data from the UCI ML Repository.
 
 ---
 
+## 📈 Model Performance
+
+- Accuracy: 90%
+- Precision: 0.91
+- Recall: 0.89
+- F1 Score: 0.90
+
+✅ The model performs well on the given dataset and generalizes to unseen data.
+
+## 🧠 What I Learned
+
+- Understanding real-world biomedical datasets
+- Preprocessing and analyzing medical voice data
+- Applying and tuning SVM for classification
+- Improving model accuracy with feature correlation
+
+## 🔮 Future Work
+
+- Try deep learning models like CNN or LSTM
+- Deploy the model using Streamlit or Flask
+- Expand dataset to include more samples
+
 ## 🙋‍♀️ Author
 
 ** by A.DEIVA LAKSHMEE**
-Feel free to ⭐ star this repo and fork it!
+
 
